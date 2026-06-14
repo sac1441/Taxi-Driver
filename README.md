@@ -4,6 +4,12 @@ A fast-paced urban racing game built in Unity — pick up passengers, drop them 
 
 ---
 
+## 🎬 Trailer
+
+[![Taxi Driver Trailer](https://img.youtube.com/vi/nIZjB03Dad0/maxresdefault.jpg)](https://www.youtube.com/watch?v=nIZjB03Dad0)
+
+---
+
 ## 🎮 Gameplay
 
 - **Pick up passengers** scattered across a living city environment
