@@ -1,0 +1,23 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# JetBrains
+.idea/
+
+# Unity VCS (you're using Unity VCS/Plastic SCM — see note below)
+*.plastic
